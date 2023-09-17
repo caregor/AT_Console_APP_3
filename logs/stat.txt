@@ -1,0 +1,8 @@
+21:28:08.757704, 10, 1M, CPU usage: 11.96% user, 20.57% sys, 67.46% idle
+21:28:09.623460, 10, 1M, CPU usage: 10.95% user, 20.54% sys, 68.49% idle
+21:28:10.556003, 10, 1M, CPU usage: 14.55% user, 21.12% sys, 64.31% idle
+21:28:10.876436, 10, 1M, CPU usage: 11.73% user, 21.12% sys, 67.13% idle
+21:28:11.674674, 10, 1M, CPU usage: 10.95% user, 20.54% sys, 68.49% idle
+21:28:12.599759, 10, 1M, CPU usage: 14.15% user, 21.69% sys, 64.15% idle
+21:28:13.584389, 10, 1M, CPU usage: 13.17% user, 21.95% sys, 64.87% idle
+21:28:13.890122, 10, 1M, CPU usage: 11.57% user, 20.83% sys, 67.59% idle

@@ -3,3 +3,5 @@ folder_out: /tmp/out
 folder_ext: /tmp/folder1
 folder_ext2: /tmp/folder2
 count: 10
+file_size: 1M
+os_system: mac # mac or linux
