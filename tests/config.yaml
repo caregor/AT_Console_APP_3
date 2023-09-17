@@ -1,0 +1,5 @@
+folder_in: /tmp/tst
+folder_out: /tmp/out
+folder_ext: /tmp/folder1
+folder_ext2: /tmp/folder2
+count: 10
