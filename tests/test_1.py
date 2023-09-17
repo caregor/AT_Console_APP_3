@@ -3,7 +3,7 @@ import yaml
 from bin.checkout import checkout
 from bin.hash_calc import calc_crc32
 
-with open('tests/config.yaml', 'rb') as f:
+with open('config/config.yaml', 'rb') as f:
     data = yaml.safe_load(f)
 
 class TestPositive:
