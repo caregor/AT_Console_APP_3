@@ -5,3 +5,4 @@ folder_ext2: /tmp/folder2
 count: 10
 file_size: 1M
 os_system: mac # mac or linux
+arch_type: zip
